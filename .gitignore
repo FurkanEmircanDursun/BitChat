@@ -1,0 +1,17 @@
+app/node_modules/
+app/android/.gradle/
+app/android/.cxx/
+app/android/app/.cxx/
+app/android/app/build/
+app/android/build/
+app/android/local.properties
+app/coverage/
+*.log
+*.keystore
+!app/android/app/debug.keystore
+.impeccable/
+.presentation-work/
+app/build/
+app/audit-report.json
+app/android/app/src/main/assets/index.android.bundle*
+
